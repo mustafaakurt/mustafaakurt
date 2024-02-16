@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Mustafa</h1>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mustafaakurt&label=Profile%20views&color=0e75b6&style=flat" alt="mustafaakurt" /> </p>
 
-- 🌱 I’m currently learning **spring boot**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 📝 I started writing articles on [www.medium.com/@kurtmustafa](www.medium.com/@kurtmustafa)
 
-- 💬 Ask me about **java**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **kurrttmustafa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/mustafakkurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafakkurt" height="30" width="40" /></a>
 <a href="https://medium.com/@kurtmustafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kurtmustafa" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mustafakurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mustafakurt" height="30" width="40" /></a>
 </p>
