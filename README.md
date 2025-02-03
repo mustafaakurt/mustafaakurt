@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 📝 I started writing articles on [www.medium.com/@kurtmustafa](www.medium.com/@kurtmustafa)
+- 📝 I started writing articles on [www.medium.com/@mustafakurt.dev](www.medium.com/@mustafakurt.dev)
 
 - 💬 Ask me about **Java**
 
